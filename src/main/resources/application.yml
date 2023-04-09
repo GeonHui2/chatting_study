@@ -1,0 +1,4 @@
+spring:
+  data:
+    redis: localhost
+    host: 6379
