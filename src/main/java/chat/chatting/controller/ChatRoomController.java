@@ -1,5 +1,7 @@
-package chat.chatting.websocket;
+package chat.chatting.controller;
 
+import chat.chatting.model.ChatRoom;
+import chat.chatting.repository.ChatRoomRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

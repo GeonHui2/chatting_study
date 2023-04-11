@@ -1,4 +1,4 @@
-package chat.chatting.websocket;
+package chat.chatting.model;
 
 import lombok.Getter;
 import lombok.Setter;
